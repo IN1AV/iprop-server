@@ -1,0 +1,8864 @@
+{
+  "games": [
+    {
+      "appid": 990630,
+      "type": "game",
+      "name": "The Last Campfire",
+      "developers": [
+        "Hello Games"
+      ],
+      "publishers": [
+        "Hello Games"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": true,
+        "date": "2021"
+      }
+    },
+    {
+      "appid": 989690,
+      "type": "game",
+      "name": "Conan Unconquered",
+      "developers": [
+        "Petroglyph"
+      ],
+      "publishers": [
+        "Funcom"
+      ],
+      "score": 62,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "29 May, 2019"
+      }
+    },
+    {
+      "appid": 989960,
+      "type": "dlc",
+      "name": "Project Warlock - Soundtrack",
+      "developers": [
+        "Buckshot Software"
+      ],
+      "publishers": [
+        "gaming company"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "6 Dec, 2018"
+      }
+    },
+    {
+      "appid": 988910,
+      "type": "game",
+      "name": "Super Mega Baseball 3",
+      "developers": [
+        "Metalhead Software Inc."
+      ],
+      "publishers": [
+        "Metalhead Software Inc."
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 May, 2020"
+      }
+    },
+    {
+      "appid": 986800,
+      "type": "game",
+      "name": "AVICII Invector",
+      "developers": [
+        "Hello There Games"
+      ],
+      "publishers": [
+        "Wired Productions"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "10 Dec, 2019"
+      }
+    },
+    {
+      "appid": 985890,
+      "type": "game",
+      "name": "Streets of Rage 4",
+      "developers": [
+        "Dotemu",
+        "Guard Crush",
+        "Lizardcube"
+      ],
+      "publishers": [
+        "Dotemu",
+        "Yooreka Studio (Greater China)"
+      ],
+      "score": 84,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Apr, 2020"
+      }
+    },
+    {
+      "appid": 985950,
+      "type": "game",
+      "name": "Operencia: The Stolen Sun",
+      "developers": [
+        "Zen Studios"
+      ],
+      "publishers": [
+        "Zen Studios"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "31 Mar, 2020"
+      }
+    },
+    {
+      "appid": 984800,
+      "type": "game",
+      "name": "Automachef",
+      "developers": [
+        "Hermes Interactive"
+      ],
+      "publishers": [
+        "Team17 Digital Ltd"
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Jul, 2019"
+      }
+    },
+    {
+      "appid": 983970,
+      "type": "game",
+      "name": "Haven",
+      "developers": [
+        "The Game Bakers"
+      ],
+      "publishers": [
+        "The Game Bakers"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "3 Dec, 2020"
+      }
+    },
+    {
+      "appid": 980300,
+      "type": "game",
+      "name": "One Finger Death Punch 2",
+      "developers": [
+        "Silver Dollar Games"
+      ],
+      "publishers": [
+        "Silver Dollar Games"
+      ],
+      "score": 83,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "15 Apr, 2019"
+      }
+    },
+    {
+      "appid": 979120,
+      "type": "game",
+      "name": "Autonauts",
+      "developers": [
+        "Denki"
+      ],
+      "publishers": [
+        "Curve Digital"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Oct, 2019"
+      }
+    },
+    {
+      "appid": 977420,
+      "type": "dlc",
+      "name": "Kingdom Come: Deliverance – Band of Bastards",
+      "developers": [
+        "Warhorse Studios"
+      ],
+      "publishers": [
+        "Warhorse Studios",
+        "Deep Silver"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "5 Feb, 2019"
+      }
+    },
+    {
+      "appid": 976310,
+      "type": "game",
+      "name": "Mortal Kombat 11",
+      "developers": [
+        "NetherRealm Studios",
+        "QLOC",
+        "Shiver"
+      ],
+      "publishers": [
+        "Warner Bros Interactive Entertainment"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Apr, 2019"
+      }
+    },
+    {
+      "appid": 975950,
+      "type": "game",
+      "name": "Effie",
+      "developers": [
+        "Inverge Studios"
+      ],
+      "publishers": [
+        "Inverge Studios"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Jan, 2020"
+      }
+    },
+    {
+      "appid": 975470,
+      "type": "game",
+      "name": "Silver Chains",
+      "developers": [
+        "Cracked Heads Games"
+      ],
+      "publishers": [
+        "Headup"
+      ],
+      "score": 51,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "6 Aug, 2019"
+      }
+    },
+    {
+      "appid": 975510,
+      "type": "game",
+      "name": "Panzer Paladin",
+      "developers": [
+        "Tribute Games Inc."
+      ],
+      "publishers": [
+        "Tribute Games Inc."
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Jul, 2020"
+      }
+    },
+    {
+      "appid": 973760,
+      "type": "game",
+      "name": "Thronebreaker: The Witcher Tales",
+      "developers": [
+        "CD PROJEKT RED"
+      ],
+      "publishers": [
+        "CD PROJEKT RED"
+      ],
+      "score": 85,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 Nov, 2018"
+      }
+    },
+    {
+      "appid": 973810,
+      "type": "game",
+      "name": "Journey To The Savage Planet",
+      "developers": [
+        "Typhoon"
+      ],
+      "publishers": [
+        "505 Games"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Jan, 2021"
+      }
+    },
+    {
+      "appid": 973580,
+      "type": "game",
+      "name": "Sniper Ghost Warrior Contracts",
+      "developers": [
+        "CI Games"
+      ],
+      "publishers": [
+        "CI Games"
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Nov, 2019"
+      }
+    },
+    {
+      "appid": 970830,
+      "type": "game",
+      "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+      "developers": [
+        "Artefacts Studio"
+      ],
+      "publishers": [
+        "Dear Villagers",
+        "E-Home Entertainment"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Sep, 2020"
+      }
+    },
+    {
+      "appid": 970170,
+      "type": "dlc",
+      "name": "Override: Mech City Brawl - Season Pass",
+      "developers": [
+        "The Balance Inc"
+      ],
+      "publishers": [
+        "Modus Games"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "3 Dec, 2018"
+      }
+    },
+    {
+      "appid": 969540,
+      "type": "game",
+      "name": "Pattern",
+      "developers": [
+        "Galen Drew",
+        "Michael Bell",
+        "Badru"
+      ],
+      "publishers": [
+        "Ice Water Games"
+      ],
+      "score": 61,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "7 Apr, 2020"
+      }
+    },
+    {
+      "appid": 968870,
+      "type": "game",
+      "name": "Close to the Sun",
+      "developers": [
+        "Storm in a Teacup"
+      ],
+      "publishers": [
+        "Wired Productions"
+      ],
+      "score": 66,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "5 May, 2020"
+      }
+    },
+    {
+      "appid": 968370,
+      "type": "game",
+      "name": "The Blind Prophet",
+      "developers": [
+        "ARS GOETIA"
+      ],
+      "publishers": [
+        "ARS GOETIA",
+        "Plug In Digital",
+        "Maple Whispering Limited"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "5 Feb, 2020"
+      }
+    },
+    {
+      "appid": 967390,
+      "type": "game",
+      "name": "Chronos: Before the Ashes",
+      "developers": [
+        "Gunfire Games",
+        "THQ Nordic"
+      ],
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "1 Dec, 2020"
+      }
+    },
+    {
+      "appid": 966670,
+      "type": "game",
+      "name": "The Wanderer: Frankenstein's Creature",
+      "developers": [
+        "La Belle Games",
+        "ARTE France"
+      ],
+      "publishers": [
+        "ARTE France"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Oct, 2019"
+      }
+    },
+    {
+      "appid": 966840,
+      "type": "dlc",
+      "name": "Stardust",
+      "developers": [
+        "The Balance Inc"
+      ],
+      "publishers": [
+        "Modus Games"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Dec, 2018"
+      }
+    },
+    {
+      "appid": 966841,
+      "type": "dlc",
+      "name": "Maestro",
+      "developers": [
+        "The Balance Inc"
+      ],
+      "publishers": [
+        "Modus Games"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Jan, 2019"
+      }
+    },
+    {
+      "appid": 966842,
+      "type": "dlc",
+      "name": "Mech C",
+      "developers": [
+        "The Balance Inc"
+      ],
+      "publishers": [
+        "Modus Games"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Mar, 2019"
+      }
+    },
+    {
+      "appid": 966843,
+      "type": "dlc",
+      "name": "Mirai",
+      "developers": [
+        "The Balance Inc"
+      ],
+      "publishers": [
+        "Modus Games"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Apr, 2019"
+      }
+    },
+    {
+      "appid": 966845,
+      "type": "dlc",
+      "name": "Super Charged Skin Pack",
+      "developers": [
+        "The Balance Inc"
+      ],
+      "publishers": [
+        "Modus Games"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Apr, 2019"
+      }
+    },
+    {
+      "appid": 966400,
+      "type": "game",
+      "name": "Speaking Simulator",
+      "developers": [
+        "Affable Games"
+      ],
+      "publishers": [
+        "Affable Games"
+      ],
+      "score": 56,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Jan, 2020"
+      }
+    },
+    {
+      "appid": 963000,
+      "type": "game",
+      "name": "The Haunted Island, a Frog Detective Game",
+      "developers": [
+        "Grace Bruxner",
+        "Thomas Bowker"
+      ],
+      "publishers": [
+        "worm club",
+        "SUPERHOT PRESENTS"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Nov, 2018"
+      }
+    },
+    {
+      "appid": 962630,
+      "type": "game",
+      "name": "Transient",
+      "developers": [
+        "Stormling Studios"
+      ],
+      "publishers": [
+        "Iceberg Interactive"
+      ],
+      "score": 65,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Oct, 2020"
+      }
+    },
+    {
+      "appid": 962730,
+      "type": "game",
+      "name": "Skater XL",
+      "developers": [
+        "Easy Day Studios Pty Ltd"
+      ],
+      "publishers": [
+        "Easy Day Studios Pty Ltd"
+      ],
+      "score": 56,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Jul, 2020"
+      }
+    },
+    {
+      "appid": 960910,
+      "type": "game",
+      "name": "Heavy Rain",
+      "developers": [
+        "Quantic Dream"
+      ],
+      "publishers": [
+        "Quantic Dream"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Jun, 2020"
+      }
+    },
+    {
+      "appid": 960990,
+      "type": "game",
+      "name": "Beyond: Two Souls",
+      "developers": [
+        "Quantic Dream"
+      ],
+      "publishers": [
+        "Quantic Dream"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Jun, 2020"
+      }
+    },
+    {
+      "appid": 960690,
+      "type": "game",
+      "name": "One Step From Eden",
+      "developers": [
+        "Thomas Moon Kang"
+      ],
+      "publishers": [
+        "Humble Games",
+        "Maple Whispering Limited"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "26 Mar, 2020"
+      }
+    },
+    {
+      "appid": 956030,
+      "type": "game",
+      "name": "Creaks",
+      "developers": [
+        "Amanita Design"
+      ],
+      "publishers": [
+        "Amanita Design"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Jul, 2020"
+      }
+    },
+    {
+      "appid": 955360,
+      "type": "game",
+      "name": "Stronghold: A Hero’s Fate",
+      "developers": [
+        "Choice of Games"
+      ],
+      "publishers": [
+        "Choice of Games"
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 Nov, 2018"
+      }
+    },
+    {
+      "appid": 954650,
+      "type": "game",
+      "name": "Druidstone: The Secret of the Menhir Forest",
+      "developers": [
+        "Ctrl Alt Ninja Ltd."
+      ],
+      "publishers": [
+        "Ctrl Alt Ninja Ltd."
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "15 May, 2019"
+      }
+    },
+    {
+      "appid": 954740,
+      "type": "game",
+      "name": "Terminator: Resistance",
+      "developers": [
+        "Teyon"
+      ],
+      "publishers": [
+        "Reef Entertainment"
+      ],
+      "score": 60,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Nov, 2019"
+      }
+    },
+    {
+      "appid": 953490,
+      "type": "game",
+      "name": "CARRION",
+      "developers": [
+        "Phobia Game Studio"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Jul, 2020"
+      }
+    },
+    {
+      "appid": 952890,
+      "type": "dlc",
+      "name": "Surviving Mars: Green Planet",
+      "developers": [
+        "Haemimont Games"
+      ],
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 May, 2019"
+      }
+    },
+    {
+      "appid": 952060,
+      "type": "game",
+      "name": "Resident Evil 3",
+      "developers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Apr, 2020"
+      }
+    },
+    {
+      "appid": 947510,
+      "type": "dlc",
+      "name": "Sid Meier's Civilization® VI: Gathering Storm",
+      "developers": [
+        "Firaxis Games",
+        "Aspyr (Mac)",
+        "Aspyr (Linux)"
+      ],
+      "publishers": [
+        "2K",
+        "Aspyr (Mac)",
+        "Aspyr (Linux)"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Feb, 2019"
+      }
+    },
+    {
+      "appid": 945160,
+      "type": "game",
+      "name": "Angelo and Deemon: One Hell of a Quest",
+      "developers": [
+        "Specialbit Studio"
+      ],
+      "publishers": [
+        "Specialbit Studio"
+      ],
+      "score": 53,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Sep, 2019"
+      }
+    },
+    {
+      "appid": 943140,
+      "type": "game",
+      "name": "Sparklite",
+      "developers": [
+        "Red Blue Games"
+      ],
+      "publishers": [
+        "Merge Games",
+        "Maple Whispering Limited"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Nov, 2019"
+      }
+    },
+    {
+      "appid": 942970,
+      "type": "game",
+      "name": "Unheard",
+      "developers": [
+        "NEXT Studios"
+      ],
+      "publishers": [
+        "NEXT Studios",
+        "bilibili"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Mar, 2019"
+      }
+    },
+    {
+      "appid": 941570,
+      "type": "game",
+      "name": "Relicta",
+      "developers": [
+        "Mighty Polygon"
+      ],
+      "publishers": [
+        "Ravenscourt"
+      ],
+      "score": 74,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "3 Aug, 2020"
+      }
+    },
+    {
+      "appid": 940680,
+      "type": "game",
+      "name": "The Textorcist: The Story of Ray Bibbia",
+      "developers": [
+        "MorbidWare"
+      ],
+      "publishers": [
+        "Headup"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Feb, 2019"
+      }
+    },
+    {
+      "appid": 940910,
+      "type": "game",
+      "name": "Minoria",
+      "developers": [
+        "Bombservice"
+      ],
+      "publishers": [
+        "DANGEN Entertainment"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Aug, 2019"
+      }
+    },
+    {
+      "appid": 940310,
+      "type": "game",
+      "name": "Corpse Party 2: Dead Patient",
+      "developers": [
+        "GrisGris"
+      ],
+      "publishers": [
+        "XSEED Games",
+        "Marvelous USA, Inc."
+      ],
+      "score": 67,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Oct, 2019"
+      }
+    },
+    {
+      "appid": 939850,
+      "type": "game",
+      "name": "The Dark Pictures Anthology: Man of Medan",
+      "developers": [
+        "Supermassive Games"
+      ],
+      "publishers": [
+        "BANDAI NAMCO Entertainment Europe"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "29 Aug, 2019"
+      }
+    },
+    {
+      "appid": 939520,
+      "type": "game",
+      "name": "HELLGATE: London",
+      "developers": [
+        "T3Entertainment"
+      ],
+      "publishers": [
+        "HanbitSoft Inc."
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "15 Nov, 2018"
+      }
+    },
+    {
+      "appid": 938380,
+      "type": "game",
+      "name": "Townsmen - A Kingdom Rebuilt",
+      "developers": [
+        "HandyGames"
+      ],
+      "publishers": [
+        "HandyGames"
+      ],
+      "score": 60,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "26 Feb, 2019"
+      }
+    },
+    {
+      "appid": 937940,
+      "type": "game",
+      "name": "Sea Dogs: City of Abandoned Ships",
+      "developers": [
+        "Akella"
+      ],
+      "publishers": [
+        "Akella"
+      ],
+      "score": 61,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Nov, 2018"
+      }
+    },
+    {
+      "appid": 936140,
+      "type": "game",
+      "name": "Pro Cycling Manager 2019",
+      "developers": [
+        "Cyanide Studio"
+      ],
+      "publishers": [
+        "Nacon"
+      ],
+      "score": 66,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Jun, 2019"
+      }
+    },
+    {
+      "appid": 934780,
+      "type": "game",
+      "name": "American Fugitive",
+      "developers": [
+        "Fallen Tree Games Ltd"
+      ],
+      "publishers": [
+        "Curve Digital"
+      ],
+      "score": 66,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 May, 2019"
+      }
+    },
+    {
+      "appid": 931310,
+      "type": "game",
+      "name": "Airplane Mode",
+      "developers": [
+        "Bacronym"
+      ],
+      "publishers": [
+        "AMC Games"
+      ],
+      "score": 53,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "15 Oct, 2020"
+      }
+    },
+    {
+      "appid": 929010,
+      "type": "game",
+      "name": "Swag and Sorcery",
+      "developers": [
+        "Lazy Bear Games",
+        "Uroboros Games"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "score": 51,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 May, 2019"
+      }
+    },
+    {
+      "appid": 928600,
+      "type": "game",
+      "name": "F1 2019",
+      "developers": [
+        "Codemasters"
+      ],
+      "publishers": [
+        "Codemasters"
+      ],
+      "score": 87,
+      "genres": [
+        {
+          "id": "9",
+          "description": "Racing"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Jun, 2019"
+      }
+    },
+    {
+      "appid": 927250,
+      "type": "game",
+      "name": "Bladed Fury",
+      "developers": [
+        "NEXT Studios"
+      ],
+      "publishers": [
+        "NEXT Studios"
+      ],
+      "score": 74,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Dec, 2018"
+      }
+    },
+    {
+      "appid": 927380,
+      "type": "game",
+      "name": "Yakuza Kiwami 2",
+      "developers": [
+        "SEGA"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 May, 2019"
+      }
+    },
+    {
+      "appid": 926580,
+      "type": "game",
+      "name": "Broken Lines",
+      "developers": [
+        "PortaPlay"
+      ],
+      "publishers": [
+        "Super.com"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "25 Feb, 2020"
+      }
+    },
+    {
+      "appid": 925930,
+      "type": "game",
+      "name": "Myst III: Exile",
+      "developers": [
+        "Presto Studios"
+      ],
+      "publishers": [
+        "Cyan Worlds Inc",
+        "Ubisoft"
+      ],
+      "score": 83,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "24 Sep, 2018"
+      }
+    },
+    {
+      "appid": 925940,
+      "type": "game",
+      "name": "Myst IV: Revelation",
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "publishers": [
+        "Cyan Worlds Inc"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "24 Sep, 2018"
+      }
+    },
+    {
+      "appid": 925550,
+      "type": "game",
+      "name": "Cross Racing Championship Extreme",
+      "developers": [
+        "Invictus Games Ltd."
+      ],
+      "publishers": [
+        "Invictus Games Ltd."
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "9",
+          "description": "Racing"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Sep, 2018"
+      }
+    },
+    {
+      "appid": 1538740,
+      "type": "dlc",
+      "name": "Control - The Foundation",
+      "developers": [
+        "Remedy Entertainment"
+      ],
+      "publishers": [
+        "505 Games"
+      ],
+      "score": 84,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "1 Mar, 2021"
+      }
+    },
+    {
+      "appid": 1538741,
+      "type": "dlc",
+      "name": "Control - AWE",
+      "developers": [
+        "Remedy Entertainment"
+      ],
+      "publishers": [
+        "505 Games"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "1 Mar, 2021"
+      }
+    },
+    {
+      "appid": 1523720,
+      "type": "game",
+      "name": "Cook-Out",
+      "developers": [
+        "Resolution Games"
+      ],
+      "publishers": [
+        "Resolution Games"
+      ],
+      "score": 86,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        }
+      ],
+      "release_date": {
+        "coming_soon": true,
+        "date": "Spring 2021"
+      }
+    },
+    {
+      "appid": 1342620,
+      "type": "game",
+      "name": "Werewolf: The Apocalypse - Heart of the Forest",
+      "developers": [
+        "Different Tales"
+      ],
+      "publishers": [
+        "Walkabout",
+        "Different Tales"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Oct, 2020"
+      }
+    },
+    {
+      "appid": 1337010,
+      "type": "game",
+      "name": "Alba: A Wildlife Adventure",
+      "developers": [
+        "ustwo games"
+      ],
+      "publishers": [
+        "ustwo games",
+        "PID Publishing"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "11 Dec, 2020"
+      }
+    },
+    {
+      "appid": 1328660,
+      "type": "game",
+      "name": "Need for Speed™ Hot Pursuit Remastered",
+      "developers": [
+        "Stellar Entertainment Limited"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "9",
+          "description": "Racing"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "6 Nov, 2020"
+      }
+    },
+    {
+      "appid": 1311510,
+      "type": "game",
+      "name": "Embracelet",
+      "developers": [
+        "Mattis Folkestad"
+      ],
+      "publishers": [
+        "machineboy"
+      ],
+      "score": 85,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Sep, 2020"
+      }
+    },
+    {
+      "appid": 757200,
+      "type": "game",
+      "name": "EMERGENCY 3",
+      "developers": [
+        "Sixteen Tons Entertainment"
+      ],
+      "publishers": [
+        "Sixteen Tons Entertainment"
+      ],
+      "score": 58,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 Dec, 2017"
+      }
+    },
+    {
+      "appid": 757210,
+      "type": "game",
+      "name": "EMERGENCY 4 Deluxe",
+      "developers": [
+        "Sixteen Tons Entertainment"
+      ],
+      "publishers": [
+        "Sixteen Tons Entertainment"
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "24 Apr, 2018"
+      }
+    },
+    {
+      "appid": 757320,
+      "type": "game",
+      "name": "Atomicrops",
+      "developers": [
+        "Bird Bath Games"
+      ],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Sep, 2020"
+      }
+    },
+    {
+      "appid": 755670,
+      "type": "game",
+      "name": "Sleep Tight",
+      "developers": [
+        "We Are Fuzzy"
+      ],
+      "publishers": [
+        "We Are Fuzzy"
+      ],
+      "score": 74,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "26 Jul, 2018"
+      }
+    },
+    {
+      "appid": 753640,
+      "type": "game",
+      "name": "Outer Wilds",
+      "developers": [
+        "Mobius Digital"
+      ],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "score": 85,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Jun, 2020"
+      }
+    },
+    {
+      "appid": 752550,
+      "type": "game",
+      "name": "Ripped Pants at Work",
+      "developers": [
+        "Scott Ethington"
+      ],
+      "publishers": [
+        "Scott Ethington"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Jan, 2018"
+      }
+    },
+    {
+      "appid": 752590,
+      "type": "game",
+      "name": "A Plague Tale: Innocence",
+      "developers": [
+        "Asobo Studio"
+      ],
+      "publishers": [
+        "Focus Home Interactive"
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 May, 2019"
+      }
+    },
+    {
+      "appid": 751780,
+      "type": "game",
+      "name": "Forager",
+      "developers": [
+        "HopFrog"
+      ],
+      "publishers": [
+        "Humble Games"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Apr, 2019"
+      }
+    },
+    {
+      "appid": 751500,
+      "type": "game",
+      "name": "TINY METAL",
+      "developers": [
+        "AREA 35, Inc."
+      ],
+      "publishers": [
+        "Sony Music Entertainment (Japan) Inc. / UNTIES"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Dec, 2017"
+      }
+    },
+    {
+      "appid": 748490,
+      "type": "game",
+      "name": "The Legend of Heroes: Trails of Cold Steel II",
+      "developers": [
+        "Nihon Falcom"
+      ],
+      "publishers": [
+        "XSEED Games",
+        "Marvelous USA, Inc."
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Feb, 2018"
+      }
+    },
+    {
+      "appid": 747350,
+      "type": "game",
+      "name": "Hellblade: Senua's Sacrifice VR Edition",
+      "developers": [
+        "Ninja Theory"
+      ],
+      "publishers": [
+        "Ninja Theory"
+      ],
+      "score": 87,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "31 Jul, 2018"
+      }
+    },
+    {
+      "appid": 747360,
+      "type": "game",
+      "name": "Gray Dawn",
+      "developers": [
+        "Interactive Stone"
+      ],
+      "publishers": [
+        "Interactive Stone"
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "7 Jun, 2018"
+      }
+    },
+    {
+      "appid": 746850,
+      "type": "game",
+      "name": "Cloudpunk",
+      "developers": [
+        "ION LANDS"
+      ],
+      "publishers": [
+        "ION LANDS",
+        "Maple Whispering Limited"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Apr, 2020"
+      }
+    },
+    {
+      "appid": 744050,
+      "type": "game",
+      "name": "Space Invaders Extreme",
+      "developers": [
+        "TAITO CORP."
+      ],
+      "publishers": [
+        "Degica",
+        "TAITO CORP."
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Feb, 2018"
+      }
+    },
+    {
+      "appid": 744060,
+      "type": "game",
+      "name": "Groove Coaster",
+      "developers": [
+        "TAITO CORP."
+      ],
+      "publishers": [
+        "Degica",
+        "TAITO CORP."
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 Jul, 2018"
+      }
+    },
+    {
+      "appid": 743860,
+      "type": "game",
+      "name": "Wild West Online",
+      "developers": [
+        "WWO Partners Ltd"
+      ],
+      "publishers": [
+        "WWO Partners Ltd"
+      ],
+      "score": 29,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "29",
+          "description": "Massively Multiplayer"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "10 May, 2018"
+      }
+    },
+    {
+      "appid": 743450,
+      "type": "game",
+      "name": "Monster Prom",
+      "developers": [
+        "Beautiful Glitch"
+      ],
+      "publishers": [
+        "Those Awesome Guys"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Apr, 2018"
+      }
+    },
+    {
+      "appid": 743090,
+      "type": "game",
+      "name": "Defiance 2050",
+      "developers": [
+        "Trion Worlds"
+      ],
+      "publishers": [
+        "Trion Worlds"
+      ],
+      "score": 48,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "37",
+          "description": "Free to Play"
+        },
+        {
+          "id": "29",
+          "description": "Massively Multiplayer"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "10 Jul, 2018"
+      }
+    },
+    {
+      "appid": 742520,
+      "type": "game",
+      "name": "Astrologaster",
+      "developers": [
+        "Nyamyam"
+      ],
+      "publishers": [
+        "Nyamyam"
+      ],
+      "score": 74,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 May, 2019"
+      }
+    },
+    {
+      "appid": 741820,
+      "type": "game",
+      "name": "Prey: Typhon Hunter",
+      "developers": [
+        "Arkane Studios"
+      ],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "11 Dec, 2018"
+      }
+    },
+    {
+      "appid": 741510,
+      "type": "game",
+      "name": "The Hong Kong Massacre",
+      "developers": [
+        "VRESKI"
+      ],
+      "publishers": [
+        "VRESKI"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Jan, 2019"
+      }
+    },
+    {
+      "appid": 739080,
+      "type": "game",
+      "name": "9 Monkeys of Shaolin",
+      "developers": [
+        "Sobaka Studio"
+      ],
+      "publishers": [
+        "Buka Entertainment"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 Oct, 2020"
+      }
+    },
+    {
+      "appid": 738540,
+      "type": "game",
+      "name": "Tales of Vesperia: Definitive Edition",
+      "developers": [
+        "QLOC",
+        "BANDAI NAMCO Studios Inc."
+      ],
+      "publishers": [
+        "BANDAI NAMCO Entertainment"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "10 Jan, 2019"
+      }
+    },
+    {
+      "appid": 737800,
+      "type": "game",
+      "name": "F1 2018",
+      "developers": [
+        "Codemasters"
+      ],
+      "publishers": [
+        "Codemasters"
+      ],
+      "score": 83,
+      "genres": [
+        {
+          "id": "9",
+          "description": "Racing"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Aug, 2018"
+      }
+    },
+    {
+      "appid": 736850,
+      "type": "game",
+      "name": "We. The Revolution",
+      "developers": [
+        "Polyslash"
+      ],
+      "publishers": [
+        "Klabater"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Mar, 2019"
+      }
+    },
+    {
+      "appid": 736260,
+      "type": "game",
+      "name": "Baba Is You",
+      "developers": [
+        "Hempuli Oy"
+      ],
+      "publishers": [
+        "Hempuli Oy"
+      ],
+      "score": 87,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Mar, 2019"
+      }
+    },
+    {
+      "appid": 735500,
+      "type": "game",
+      "name": "Creepy Road",
+      "developers": [
+        "Groovy Milk"
+      ],
+      "publishers": [
+        "Groovy Milk",
+        "GrabTheGames"
+      ],
+      "score": 58,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 May, 2018"
+      }
+    },
+    {
+      "appid": 733790,
+      "type": "game",
+      "name": "Not Tonight",
+      "developers": [
+        "PanicBarn"
+      ],
+      "publishers": [
+        "No More Robots"
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Aug, 2018"
+      }
+    },
+    {
+      "appid": 730820,
+      "type": "game",
+      "name": "The Curse of Monkey Island",
+      "developers": [
+        "LucasArts"
+      ],
+      "publishers": [
+        "LucasArts",
+        "Lucasfilm",
+        "Disney"
+      ],
+      "score": 89,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Mar, 2018"
+      }
+    },
+    {
+      "appid": 730830,
+      "type": "game",
+      "name": "Escape from Monkey Island™",
+      "developers": [
+        "LucasArts"
+      ],
+      "publishers": [
+        "Lucasfilm",
+        "Disney"
+      ],
+      "score": 86,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 Nov, 2018"
+      }
+    },
+    {
+      "appid": 728740,
+      "type": "game",
+      "name": "Sniper Elite V2 Remastered",
+      "developers": [
+        "Rebellion"
+      ],
+      "publishers": [
+        "Rebellion"
+      ],
+      "score": 61,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 May, 2019"
+      }
+    },
+    {
+      "appid": 728530,
+      "type": "game",
+      "name": "SD GUNDAM G GENERATION CROSS RAYS",
+      "developers": [
+        "TOM CREATE",
+        "株式会社トムクリエイト"
+      ],
+      "publishers": [
+        "BANDAI NAMCO Entertainment",
+        "株式会社バンダイナムコエンターテインメント"
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Nov, 2019"
+      }
+    },
+    {
+      "appid": 727760,
+      "type": "game",
+      "name": "Umiro",
+      "developers": [
+        "Diceroll Studios"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Mar, 2018"
+      }
+    },
+    {
+      "appid": 726830,
+      "type": "game",
+      "name": "Vacation Simulator",
+      "developers": [
+        "Owlchemy Labs"
+      ],
+      "publishers": [
+        "Owlchemy Labs"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 Apr, 2019"
+      }
+    },
+    {
+      "appid": 726490,
+      "type": "game",
+      "name": "Projection: First Light",
+      "developers": [
+        "Shadowplay Studios",
+        "Sweaty Chair",
+        "Blowfish Studios"
+      ],
+      "publishers": [
+        "Blowfish Studios"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "29 Sep, 2020"
+      }
+    },
+    {
+      "appid": 725270,
+      "type": "game",
+      "name": "Necrobarista",
+      "developers": [
+        "Route 59"
+      ],
+      "publishers": [
+        "Route 59",
+        "Coconut Island Games",
+        "PLAYISM"
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Jul, 2020"
+      }
+    },
+    {
+      "appid": 723510,
+      "type": "game",
+      "name": "The Cave VR",
+      "developers": [
+        "CGPills"
+      ],
+      "publishers": [
+        "CGPills"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 Oct, 2017"
+      }
+    },
+    {
+      "appid": 723270,
+      "type": "game",
+      "name": "Rumu",
+      "developers": [
+        "Robot House"
+      ],
+      "publishers": [
+        "Hammerfall Publishing"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Dec, 2017"
+      }
+    },
+    {
+      "appid": 722560,
+      "type": "game",
+      "name": "RAD",
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "publishers": [
+        "BANDAI NAMCO Entertainment America Inc."
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 Aug, 2019"
+      }
+    },
+    {
+      "appid": 722230,
+      "type": "game",
+      "name": "L.A. Noire: The VR Case Files",
+      "developers": [
+        "Rockstar Games"
+      ],
+      "publishers": [
+        "Rockstar Games"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "15 Dec, 2017"
+      }
+    },
+    {
+      "appid": 720560,
+      "type": "game",
+      "name": "Vigil: The Longest Night",
+      "developers": [
+        "Glass Heart Games"
+      ],
+      "publishers": [
+        "Another Indie"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Oct, 2020"
+      }
+    },
+    {
+      "appid": 719210,
+      "type": "game",
+      "name": "Supposedly Wonderful Future",
+      "developers": [
+        "Dmitry Zagumennov"
+      ],
+      "publishers": [
+        "Dmitry Zagumennov"
+      ],
+      "score": 65,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Apr, 2018"
+      }
+    },
+    {
+      "appid": 718590,
+      "type": "game",
+      "name": "Dark Devotion",
+      "developers": [
+        "Hibernian Workshop"
+      ],
+      "publishers": [
+        "The Arcade Crew",
+        "Maple Whispering Limited"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "25 Apr, 2019"
+      }
+    },
+    {
+      "appid": 718650,
+      "type": "game",
+      "name": "Driftland: The Magic Revival",
+      "developers": [
+        "Star Drifters"
+      ],
+      "publishers": [
+        "Star Drifters"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Apr, 2019"
+      }
+    },
+    {
+      "appid": 718670,
+      "type": "game",
+      "name": "Cultist Simulator",
+      "developers": [
+        "Weather Factory"
+      ],
+      "publishers": [
+        "Weather Factory"
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "31 May, 2018"
+      }
+    },
+    {
+      "appid": 718850,
+      "type": "game",
+      "name": "Age of Wonders: Planetfall",
+      "developers": [
+        "Triumph Studios"
+      ],
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "6 Aug, 2019"
+      }
+    },
+    {
+      "appid": 717610,
+      "type": "game",
+      "name": "A Case of Distrust",
+      "developers": [
+        "The Wandering Ben"
+      ],
+      "publishers": [
+        "Serenity Forge"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Feb, 2018"
+      }
+    },
+    {
+      "appid": 717640,
+      "type": "game",
+      "name": "Reigns: Her Majesty",
+      "developers": [
+        "Nerial",
+        "Synaptic Insight Technology Systems"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "6 Dec, 2017"
+      }
+    },
+    {
+      "appid": 717310,
+      "type": "game",
+      "name": "Aggelos",
+      "developers": [
+        "Storybird Games"
+      ],
+      "publishers": [
+        "PQube Limited",
+        "Look At My Game"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 Jun, 2018"
+      }
+    },
+    {
+      "appid": 717560,
+      "type": "game",
+      "name": "Lucifer Within Us",
+      "developers": [
+        "Kitfox Games"
+      ],
+      "publishers": [
+        "Kitfox Games"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "15 Oct, 2020"
+      }
+    },
+    {
+      "appid": 716500,
+      "type": "game",
+      "name": "Eliza",
+      "developers": [
+        "Zachtronics"
+      ],
+      "publishers": [
+        "Zachtronics"
+      ],
+      "score": 84,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Aug, 2019"
+      }
+    },
+    {
+      "appid": 715380,
+      "type": "game",
+      "name": "Those Who Remain",
+      "developers": [
+        "Camel 101"
+      ],
+      "publishers": [
+        "Wired Productions",
+        "WhisperGames"
+      ],
+      "score": 48,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 May, 2020"
+      }
+    },
+    {
+      "appid": 715560,
+      "type": "game",
+      "name": "Eastshade",
+      "developers": [
+        "Eastshade Studios"
+      ],
+      "publishers": [
+        "Eastshade Studios"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Feb, 2019"
+      }
+    },
+    {
+      "appid": 714250,
+      "type": "game",
+      "name": "Eternity: The Last Unicorn",
+      "developers": [
+        "Void Studios"
+      ],
+      "publishers": [
+        "1C Entertainment"
+      ],
+      "score": 39,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "5 Mar, 2019"
+      }
+    },
+    {
+      "appid": 714120,
+      "type": "game",
+      "name": "Little Misfortune",
+      "developers": [
+        "Killmonday Games AB"
+      ],
+      "publishers": [
+        "Killmonday Games AB"
+      ],
+      "score": 57,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Sep, 2019"
+      }
+    },
+    {
+      "appid": 712190,
+      "type": "game",
+      "name": "Genesis Alpha One Deluxe Edition",
+      "developers": [
+        "Radiation Blue"
+      ],
+      "publishers": [
+        "Team17 Digital Ltd"
+      ],
+      "score": 67,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "25 Feb, 2020"
+      }
+    },
+    {
+      "appid": 711540,
+      "type": "game",
+      "name": "Lonely Mountains: Downhill",
+      "developers": [
+        "Megagon Industries"
+      ],
+      "publishers": [
+        "Thunderful Publishing"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "9",
+          "description": "Racing"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Oct, 2019"
+      }
+    },
+    {
+      "appid": 711660,
+      "type": "game",
+      "name": "CHUCHEL",
+      "developers": [
+        "Amanita Design"
+      ],
+      "publishers": [
+        "Amanita Design"
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "7 Mar, 2018"
+      }
+    },
+    {
+      "appid": 710920,
+      "type": "game",
+      "name": "Darksiders Genesis",
+      "developers": [
+        "Airship Syndicate"
+      ],
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "5 Dec, 2019"
+      }
+    },
+    {
+      "appid": 710690,
+      "type": "game",
+      "name": "The Path of Motus",
+      "developers": [
+        "MichaelArts"
+      ],
+      "publishers": [
+        "MichaelArts"
+      ],
+      "score": 58,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Jul, 2018"
+      }
+    },
+    {
+      "appid": 709440,
+      "type": "game",
+      "name": "Override",
+      "developers": [
+        "The Balance Inc"
+      ],
+      "publishers": [
+        "Modus Games"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "3 Dec, 2018"
+      }
+    },
+    {
+      "appid": 706560,
+      "type": "game",
+      "name": "Jimmy and the Pulsating Mass",
+      "developers": [
+        "Kasey Ozymy"
+      ],
+      "publishers": [
+        "Kasey Ozymy"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "7 Aug, 2018"
+      }
+    },
+    {
+      "appid": 706020,
+      "type": "game",
+      "name": "Fade to Silence",
+      "developers": [
+        "Black Forest Games"
+      ],
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "score": 57,
+      "genres": [
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Apr, 2019"
+      }
+    },
+    {
+      "appid": 704860,
+      "type": "game",
+      "name": "Keepsake",
+      "developers": [
+        "Wicked Studios"
+      ],
+      "publishers": [
+        "Wicked Studios"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Apr, 2018"
+      }
+    },
+    {
+      "appid": 704200,
+      "type": "game",
+      "name": "The Chronicles of Nyanya",
+      "developers": [
+        "hamstercube"
+      ],
+      "publishers": [
+        "No Gravity Games"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 Feb, 2018"
+      }
+    },
+    {
+      "appid": 704230,
+      "type": "game",
+      "name": "Pro Cycling Manager 2018",
+      "developers": [
+        "Cyanide Studio"
+      ],
+      "publishers": [
+        "Focus Home Interactive"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Jun, 2018"
+      }
+    },
+    {
+      "appid": 703310,
+      "type": "game",
+      "name": "Hidden & Dangerous: Action Pack",
+      "developers": [
+        "Illusion Softworks"
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "score": 74,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Dec, 2017"
+      }
+    },
+    {
+      "appid": 703320,
+      "type": "game",
+      "name": "Hidden & Dangerous 2: Courage Under Fire",
+      "developers": [
+        "Illusion Softworks"
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Dec, 2017"
+      }
+    },
+    {
+      "appid": 702600,
+      "type": "game",
+      "name": "Indygo",
+      "developers": [
+        "Pigmentum Game Studio"
+      ],
+      "publishers": [
+        ""
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "24 Oct, 2017"
+      }
+    },
+    {
+      "appid": 702670,
+      "type": "game",
+      "name": "Donut County",
+      "developers": [
+        "Ben Esposito"
+      ],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Aug, 2018"
+      }
+    },
+    {
+      "appid": 700480,
+      "type": "game",
+      "name": "Microsoft Allegiance",
+      "developers": [
+        "Microsoft Game Studios"
+      ],
+      "publishers": [
+        "ZapHop Games"
+      ],
+      "score": 86,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "37",
+          "description": "Free to Play"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "29 Sep, 2017"
+      }
+    },
+    {
+      "appid": 700160,
+      "type": "game",
+      "name": "Semblance",
+      "developers": [
+        "Nyamakop"
+      ],
+      "publishers": [
+        "Good Shepherd Entertainment"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "24 Jul, 2018"
+      }
+    },
+    {
+      "appid": 699670,
+      "type": "game",
+      "name": "Feudal Alloy",
+      "developers": [
+        "Attu Games"
+      ],
+      "publishers": [
+        "Attu Games"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Jan, 2019"
+      }
+    },
+    {
+      "appid": 699740,
+      "type": "game",
+      "name": "Bannermen",
+      "developers": [
+        "Pathos Interactive"
+      ],
+      "publishers": [
+        "Pathos Interactive"
+      ],
+      "score": 51,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Feb, 2019"
+      }
+    },
+    {
+      "appid": 699170,
+      "type": "game",
+      "name": "Fell Seal: Arbiter's Mark",
+      "developers": [
+        "6 Eyes Studio"
+      ],
+      "publishers": [
+        "1C Entertainment"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Apr, 2019"
+      }
+    },
+    {
+      "appid": 699540,
+      "type": "game",
+      "name": "Argonus and the Gods of Stone",
+      "developers": [
+        "Zojoi"
+      ],
+      "publishers": [
+        "Zojoi"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Oct, 2019"
+      }
+    },
+    {
+      "appid": 698640,
+      "type": "game",
+      "name": "Deep Sky Derelicts",
+      "developers": [
+        "Snowhound Games"
+      ],
+      "publishers": [
+        "1C Entertainment"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "26 Sep, 2018"
+      }
+    },
+    {
+      "appid": 696480,
+      "type": "game",
+      "name": "The Norwood Suite",
+      "developers": [
+        "Cosmo D"
+      ],
+      "publishers": [
+        "Alliance"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Oct, 2017"
+      }
+    },
+    {
+      "appid": 696530,
+      "type": "game",
+      "name": "Lake Ridden",
+      "developers": [
+        "Midnight Hub"
+      ],
+      "publishers": [
+        "Midnight Hub"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "10 May, 2018"
+      }
+    },
+    {
+      "appid": 696810,
+      "type": "game",
+      "name": "EMPYRE: Lords of the Sea Gates",
+      "developers": [
+        "Coin Operated Games"
+      ],
+      "publishers": [
+        "Coin Operated Games",
+        "Work Shift Play Inc."
+      ],
+      "score": 56,
+      "genres": [
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "4 Oct, 2017"
+      }
+    },
+    {
+      "appid": 696180,
+      "type": "game",
+      "name": "Bullet Witch",
+      "developers": [
+        "Marvelous, Inc."
+      ],
+      "publishers": [
+        "XSEED Games",
+        "Marvelous USA, Inc.",
+        "Marvelous"
+      ],
+      "score": 51,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "25 Apr, 2018"
+      }
+    },
+    {
+      "appid": 695100,
+      "type": "game",
+      "name": "Smoke and Sacrifice",
+      "developers": [
+        "Solar Sail Games Ltd"
+      ],
+      "publishers": [
+        "Curve Digital "
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "31 May, 2018"
+      }
+    },
+    {
+      "appid": 695290,
+      "type": "game",
+      "name": "The Golf Club™ 2019 Featuring PGA TOUR",
+      "developers": [
+        "HB Studios Multimedia Ltd."
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Aug, 2018"
+      }
+    },
+    {
+      "appid": 694500,
+      "type": "game",
+      "name": "Army Men RTS",
+      "developers": [
+        "Pandemic Studios"
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "score": 67,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Dec, 2017"
+      }
+    },
+    {
+      "appid": 694090,
+      "type": "game",
+      "name": "Apex Construct",
+      "developers": [
+        "Fast Travel Games"
+      ],
+      "publishers": [
+        "Fast Travel Games"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Mar, 2018"
+      }
+    },
+    {
+      "appid": 1502080,
+      "type": "game",
+      "name": "ALTDEUS: Beyond Chronos",
+      "developers": [
+        "MyDearest Inc."
+      ],
+      "publishers": [
+        "MyDearest Inc."
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Feb, 2021"
+      }
+    },
+    {
+      "appid": 1454890,
+      "type": "game",
+      "name": "Titanfall™",
+      "developers": [
+        "Respawn Entertainment"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "score": 86,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Nov, 2020"
+      }
+    },
+    {
+      "appid": 1451120,
+      "type": "game",
+      "name": "Sunlight",
+      "developers": [
+        "Krillbite Studio"
+      ],
+      "publishers": [
+        "Krillbite Studio"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Jan, 2021"
+      }
+    },
+    {
+      "appid": 1055540,
+      "type": "game",
+      "name": "A Short Hike",
+      "developers": [
+        "adamgryu"
+      ],
+      "publishers": [
+        "adamgryu"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Jul, 2019"
+      }
+    },
+    {
+      "appid": 1054630,
+      "type": "game",
+      "name": "Tank Battle",
+      "developers": [
+        "黄金炫游科技有限公司",
+        "黄金612"
+      ],
+      "publishers": [
+        "黄金炫游科技有限公司"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Nov, 2019"
+      }
+    },
+    {
+      "appid": 1051410,
+      "type": "game",
+      "name": "Wanderlust: Travel Stories",
+      "developers": [
+        "Different Tales"
+      ],
+      "publishers": [
+        "Walkabout"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "26 Sep, 2019"
+      }
+    },
+    {
+      "appid": 1050880,
+      "type": "game",
+      "name": "Wavey The Rocket",
+      "developers": [
+        "UpperRoom Games Ltd"
+      ],
+      "publishers": [
+        "UpperRoom Games Ltd"
+      ],
+      "score": 62,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "7 May, 2020"
+      }
+    },
+    {
+      "appid": 1049280,
+      "type": "game",
+      "name": "Pilgrims",
+      "developers": [
+        "Amanita Design"
+      ],
+      "publishers": [
+        "Amanita Design"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "7 Oct, 2019"
+      }
+    },
+    {
+      "appid": 1049290,
+      "type": "dlc",
+      "name": "Warhammer 40,000: Mechanicus - Heretek",
+      "developers": [
+        "Bulwark Studios"
+      ],
+      "publishers": [
+        "Kasedo Games"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Jul, 2019"
+      }
+    },
+    {
+      "appid": 1048600,
+      "type": "game",
+      "name": "Stela",
+      "developers": [
+        "SkyBox Labs"
+      ],
+      "publishers": [
+        "SkyBox Labs"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Mar, 2020"
+      }
+    },
+    {
+      "appid": 1048740,
+      "type": "game",
+      "name": "Half Past Fate",
+      "developers": [
+        "Serenity Forge"
+      ],
+      "publishers": [
+        "Way Down Deep"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Mar, 2020"
+      }
+    },
+    {
+      "appid": 1047220,
+      "type": "game",
+      "name": "Frog Detective 2: The Case of the Invisible Wizard",
+      "developers": [
+        "Grace Bruxner",
+        "Thomas Bowker"
+      ],
+      "publishers": [
+        "worm club",
+        "SUPERHOT PRESENTS"
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 9, 2019"
+      }
+    },
+    {
+      "appid": 1046030,
+      "type": "game",
+      "name": "ISLANDERS",
+      "developers": [
+        "GrizzlyGames"
+      ],
+      "publishers": [
+        "GrizzlyGames"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "4 Apr, 2019"
+      }
+    },
+    {
+      "appid": 1046300,
+      "type": "game",
+      "name": "Pirates Outlaws",
+      "developers": [
+        "Fabled Game"
+      ],
+      "publishers": [
+        "Fabled Game"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Apr, 2020"
+      }
+    },
+    {
+      "appid": 1045720,
+      "type": "game",
+      "name": "The Coma 2: Vicious Sisters",
+      "developers": [
+        "Devespresso Games"
+      ],
+      "publishers": [
+        "Headup",
+        "WhisperGames"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Jan, 2020"
+      }
+    },
+    {
+      "appid": 1042490,
+      "type": "game",
+      "name": "Call of the Sea",
+      "developers": [
+        "Out of the Blue"
+      ],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Dec, 2020"
+      }
+    },
+    {
+      "appid": 1042670,
+      "type": "game",
+      "name": "Orangeblood",
+      "developers": [
+        "Grayfax Software"
+      ],
+      "publishers": [
+        "PLAYISM"
+      ],
+      "score": 57,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Jan, 2020"
+      }
+    },
+    {
+      "appid": 1041920,
+      "type": "game",
+      "name": "If Found",
+      "developers": [
+        "DREAMFEEL"
+      ],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "score": 84,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 May, 2020"
+      }
+    },
+    {
+      "appid": 1041210,
+      "type": "game",
+      "name": "Mission: It's Complicated",
+      "developers": [
+        "Schell Games"
+      ],
+      "publishers": [
+        "Schell Games"
+      ],
+      "score": 91,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Feb, 2020"
+      }
+    },
+    {
+      "appid": 1040420,
+      "type": "game",
+      "name": "Dreamscaper",
+      "developers": [
+        "Afterburner Studios"
+      ],
+      "publishers": [
+        "Freedom Games",
+        "Maple Whispering Limited"
+      ],
+      "score": 89,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Aug, 2020"
+      }
+    },
+    {
+      "appid": 1039890,
+      "type": "game",
+      "name": "EARTH DEFENSE FORCE: IRON RAIN",
+      "developers": [
+        "YUKE'S"
+      ],
+      "publishers": [
+        "D3 PUBLISHER"
+      ],
+      "score": 65,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "15 Oct, 2019"
+      }
+    },
+    {
+      "appid": 1037020,
+      "type": "game",
+      "name": "ScourgeBringer",
+      "developers": [
+        "Flying Oak Games",
+        "E-Studio"
+      ],
+      "publishers": [
+        "Dear Villagers",
+        "Yooreka Studio"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Oct, 2020"
+      }
+    },
+    {
+      "appid": 1036260,
+      "type": "game",
+      "name": "Journey For Elysium",
+      "developers": [
+        "Mantis"
+      ],
+      "publishers": [
+        "Cronos Interactive"
+      ],
+      "score": 63,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "31 Oct, 2019"
+      }
+    },
+    {
+      "appid": 1035560,
+      "type": "game",
+      "name": "Struggling",
+      "developers": [
+        "Chasing Rats Games"
+      ],
+      "publishers": [
+        "Frontier Foundry"
+      ],
+      "score": 65,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Aug, 2020"
+      }
+    },
+    {
+      "appid": 1035050,
+      "type": "game",
+      "name": "Alt-Frequencies",
+      "developers": [
+        "Accidental Queens",
+        "ARTE France"
+      ],
+      "publishers": [
+        "PID Publishing"
+      ],
+      "score": 65,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 May, 2019"
+      }
+    },
+    {
+      "appid": 1034890,
+      "type": "game",
+      "name": "Obey Me",
+      "developers": [
+        "Error 404 Game Studios S.A."
+      ],
+      "publishers": [
+        "Blowfish Studios"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Apr, 2020"
+      }
+    },
+    {
+      "appid": 1033890,
+      "type": "dlc",
+      "name": "Kingdom Come: Deliverance - A Woman's Lot",
+      "developers": [
+        "Warhorse Studios"
+      ],
+      "publishers": [
+        "Warhorse Studios",
+        "Deep Silver"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 May, 2019"
+      }
+    },
+    {
+      "appid": 1033060,
+      "type": "dlc",
+      "name": "Warhammer: Vermintide 2 - Winds of Magic",
+      "developers": [
+        "Fatshark"
+      ],
+      "publishers": [
+        "Fatshark"
+      ],
+      "score": 67,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Aug, 2019"
+      }
+    },
+    {
+      "appid": 1030430,
+      "type": "game",
+      "name": "ARCADE",
+      "developers": [
+        "EYEFRONT"
+      ],
+      "publishers": [
+        "EYEFRONT"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "29",
+          "description": "Massively Multiplayer"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Oct, 2020"
+      }
+    },
+    {
+      "appid": 1029890,
+      "type": "game",
+      "name": "Layers of Fear 2",
+      "developers": [
+        "Bloober Team SA"
+      ],
+      "publishers": [
+        "Gun Media",
+        "NA Publishing"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 May, 2019"
+      }
+    },
+    {
+      "appid": 1026420,
+      "type": "game",
+      "name": "WARSAW",
+      "developers": [
+        "Pixelated Milk"
+      ],
+      "publishers": [
+        "gaming company"
+      ],
+      "score": 62,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Oct, 2019"
+      }
+    },
+    {
+      "appid": 1025410,
+      "type": "game",
+      "name": "Metamorphosis",
+      "developers": [
+        "Ovid Works"
+      ],
+      "publishers": [
+        "All in! Games"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Aug, 2020"
+      }
+    },
+    {
+      "appid": 1025440,
+      "type": "game",
+      "name": "Fantasy General II",
+      "developers": [
+        "Owned by Gravity"
+      ],
+      "publishers": [
+        "Slitherine Ltd."
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "5 Sep, 2019"
+      }
+    },
+    {
+      "appid": 1024480,
+      "type": "game",
+      "name": "Immortal Realms: Vampire Wars",
+      "developers": [
+        "Palindrome Interactive"
+      ],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Aug, 2020"
+      }
+    },
+    {
+      "appid": 1024650,
+      "type": "game",
+      "name": "Port Royale 4",
+      "developers": [
+        "Gaming Minds"
+      ],
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "25 Sep, 2020"
+      }
+    },
+    {
+      "appid": 1022710,
+      "type": "game",
+      "name": "Conglomerate 451",
+      "developers": [
+        "RuneHeads"
+      ],
+      "publishers": [
+        "1C Entertainment"
+      ],
+      "score": 60,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 20, 2020"
+      }
+    },
+    {
+      "appid": 1021110,
+      "type": "dlc",
+      "name": "House Flipper - Luxury House Renovation",
+      "developers": [
+        "Empyrean"
+      ],
+      "publishers": [
+        "Frozen District",
+        "PlayWay S.A."
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": true,
+        "date": "May 2021"
+      }
+    },
+    {
+      "appid": 1020340,
+      "type": "game",
+      "name": "AUDICA: Rhythm Shooter",
+      "developers": [
+        "Harmonix Music Systems, Inc"
+      ],
+      "publishers": [
+        "Harmonix Music Systems, Inc"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "5 Nov, 2019"
+      }
+    },
+    {
+      "appid": 1019310,
+      "type": "game",
+      "name": "VirtuaVerse",
+      "developers": [
+        "Theta Division"
+      ],
+      "publishers": [
+        "Blood Music"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 May, 2020"
+      }
+    },
+    {
+      "appid": 1019450,
+      "type": "game",
+      "name": "Table Manners",
+      "developers": [
+        "Echo Chamber Games"
+      ],
+      "publishers": [
+        "Curve Digital "
+      ],
+      "score": 51,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Feb, 2020"
+      }
+    },
+    {
+      "appid": 1019590,
+      "type": "game",
+      "name": "Lovely Planet 2: April Skies",
+      "developers": [
+        "QUICKTEQUILA"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 18, 2019"
+      }
+    },
+    {
+      "appid": 1017900,
+      "type": "game",
+      "name": "Age of Empires: Definitive Edition",
+      "developers": [
+        "Forgotten Empires",
+        "Tantalus"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 Aug, 2019"
+      }
+    },
+    {
+      "appid": 1016730,
+      "type": "game",
+      "name": "Deck of Ashes",
+      "developers": [
+        "AYGames"
+      ],
+      "publishers": [
+        "Buka Entertainment",
+        "WhisperGames"
+      ],
+      "score": 66,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 Jun, 2020"
+      }
+    },
+    {
+      "appid": 1016920,
+      "type": "game",
+      "name": "Unrailed!",
+      "developers": [
+        "Indoor Astronaut"
+      ],
+      "publishers": [
+        "Daedalic Entertainment",
+        "bilibili(China)"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Sep, 2020"
+      }
+    },
+    {
+      "appid": 1016930,
+      "type": "game",
+      "name": "The Great Perhaps",
+      "developers": [
+        "Caligari Games"
+      ],
+      "publishers": [
+        "Daedalic Entertainment"
+      ],
+      "score": 54,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Aug, 2019"
+      }
+    },
+    {
+      "appid": 1016120,
+      "type": "game",
+      "name": "PGA TOUR 2K21",
+      "developers": [
+        "HB Studios Multimedia Ltd."
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Aug, 2020"
+      }
+    },
+    {
+      "appid": 1015500,
+      "type": "game",
+      "name": "WWE 2K20",
+      "developers": [
+        "Visual Concepts"
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "score": 43,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Oct, 2019"
+      }
+    },
+    {
+      "appid": 1015940,
+      "type": "game",
+      "name": "Welcome to Elk",
+      "developers": [
+        "Triple Topping"
+      ],
+      "publishers": [
+        "Triple Topping"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Sep, 2020"
+      }
+    },
+    {
+      "appid": 1012840,
+      "type": "game",
+      "name": "Moons of Madness",
+      "developers": [
+        "Rock Pocket Games"
+      ],
+      "publishers": [
+        "Funcom"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Oct, 2019"
+      }
+    },
+    {
+      "appid": 1011670,
+      "type": "game",
+      "name": "Totally Reliable Delivery Service",
+      "developers": [
+        "We're Five Games"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "score": 61,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": true,
+        "date": "April Fool's, no joke!"
+      }
+    },
+    {
+      "appid": 1011190,
+      "type": "game",
+      "name": "SIMULACRA 2",
+      "developers": [
+        "Kaigan Games"
+      ],
+      "publishers": [
+        "Another Indie"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Jan, 2020"
+      }
+    },
+    {
+      "appid": 1011390,
+      "type": "game",
+      "name": "Field of Glory: Empires",
+      "developers": [
+        "Ageod"
+      ],
+      "publishers": [
+        "Slitherine Ltd."
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "11 Jul, 2019"
+      }
+    },
+    {
+      "appid": 1010750,
+      "type": "game",
+      "name": "Blood: Fresh Supply",
+      "developers": [
+        "Nightdive Studios",
+        "Monolith Productions"
+      ],
+      "publishers": [
+        "Nightdive Studios",
+        "Atari"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 May, 2019"
+      }
+    },
+    {
+      "appid": 1007040,
+      "type": "game",
+      "name": "EARTH DEFENSE FORCE 5",
+      "developers": [
+        "SANDLOT"
+      ],
+      "publishers": [
+        "D3 PUBLISHER"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "11 Jul, 2019"
+      }
+    },
+    {
+      "appid": 1005300,
+      "type": "game",
+      "name": "The Jackbox Party Pack 6",
+      "developers": [
+        "Jackbox Games, Inc."
+      ],
+      "publishers": [
+        "Jackbox Games, Inc."
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 Oct, 2019"
+      }
+    },
+    {
+      "appid": 1004750,
+      "type": "game",
+      "name": "WRC 8 FIA World Rally Championship",
+      "developers": [
+        "KT Racing"
+      ],
+      "publishers": [
+        "Nacon"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "9",
+          "description": "Racing"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Sep, 2020"
+      }
+    },
+    {
+      "appid": 1003090,
+      "type": "game",
+      "name": "Through The Darkest of Times",
+      "developers": [
+        "Paintbucket Games"
+      ],
+      "publishers": [
+        "HandyGames"
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Jan, 2020"
+      }
+    },
+    {
+      "appid": 1001800,
+      "type": "game",
+      "name": "KUNAI",
+      "developers": [
+        "TurtleBlaze"
+      ],
+      "publishers": [
+        "The Arcade Crew",
+        "Gamera Games (China)"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "6 Feb, 2020"
+      }
+    },
+    {
+      "appid": 1002000,
+      "type": "game",
+      "name": "Spitlings",
+      "developers": [
+        "Massive Miniteam"
+      ],
+      "publishers": [
+        "HandyGames"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "4 Aug, 2020"
+      }
+    },
+    {
+      "appid": 1001140,
+      "type": "game",
+      "name": "Angry Birds VR: Isle of Pigs",
+      "developers": [
+        "Resolution Games"
+      ],
+      "publishers": [
+        "Resolution Games"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "7 Feb, 2019"
+      }
+    },
+    {
+      "appid": 1000010,
+      "type": "game",
+      "name": "Crown Trick",
+      "developers": [
+        "NEXT Studios"
+      ],
+      "publishers": [
+        "Team17 Digital Ltd",
+        "NEXT Studios"
+      ],
+      "score": 82,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 Oct, 2020"
+      }
+    },
+    {
+      "appid": 1000030,
+      "type": "game",
+      "name": "Cook, Serve, Delicious! 3?!",
+      "developers": [
+        "Vertigo Gaming Inc."
+      ],
+      "publishers": [
+        "Vertigo Gaming Inc."
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Oct, 2020"
+      }
+    },
+    {
+      "appid": 999220,
+      "type": "game",
+      "name": "Amnesia: Rebirth",
+      "developers": [
+        "Frictional Games"
+      ],
+      "publishers": [
+        "Frictional Games"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Oct, 2020"
+      }
+    },
+    {
+      "appid": 996770,
+      "type": "game",
+      "name": "Moving Out",
+      "developers": [
+        "SMG Studio",
+        "Devm Games"
+      ],
+      "publishers": [
+        "Team17"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Apr, 2020"
+      }
+    },
+    {
+      "appid": 994140,
+      "type": "game",
+      "name": "Lightmatter",
+      "developers": [
+        "Tunnel Vision Games"
+      ],
+      "publishers": [
+        "Aspyr"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "15 Jan, 2020"
+      }
+    },
+    {
+      "appid": 992640,
+      "type": "game",
+      "name": "Pagan: Absent Gods",
+      "developers": [
+        "Mad Head Games"
+      ],
+      "publishers": [
+        "Mad Head Games"
+      ],
+      "score": 64,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "26 Aug, 2019"
+      }
+    },
+    {
+      "appid": 1440440,
+      "type": "game",
+      "name": "Sam & Max Save the World",
+      "developers": [
+        "Skunkape Games"
+      ],
+      "publishers": [
+        "Skunkape Games"
+      ],
+      "score": 83,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Dec, 2020"
+      }
+    },
+    {
+      "appid": 1429753,
+      "type": "game",
+      "name": "REMOVE THIS",
+      "developers": [
+        "Skunkape Games"
+      ],
+      "publishers": [
+        "Skunkape Games"
+      ],
+      "score": 83,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Dec, 2020"
+      }
+    },
+    {
+      "appid": 1405790,
+      "type": "game",
+      "name": "John Wick Hex",
+      "developers": [
+        "Bithell Games"
+      ],
+      "publishers": [
+        "Good Shepherd Entertainment"
+      ],
+      "score": 74,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "4 Dec, 2020"
+      }
+    },
+    {
+      "appid": 816020,
+      "type": "game",
+      "name": "JUMP FORCE",
+      "developers": [
+        "Spike Chunsoft Co., Ltd."
+      ],
+      "publishers": [
+        "BANDAI NAMCO Entertainment"
+      ],
+      "score": 60,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Feb, 2019"
+      }
+    },
+    {
+      "appid": 814400,
+      "type": "game",
+      "name": "Battlewake",
+      "developers": [
+        "Survios"
+      ],
+      "publishers": [
+        "Survios"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "10 Sep, 2019"
+      }
+    },
+    {
+      "appid": 814570,
+      "type": "game",
+      "name": "The Great Escape",
+      "developers": [
+        "Ocean Software"
+      ],
+      "publishers": [
+        "Ziggurat"
+      ],
+      "score": 54,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Apr, 2018"
+      }
+    },
+    {
+      "appid": 814360,
+      "type": "game",
+      "name": "Mythic Ocean",
+      "developers": [
+        "Paralune LLC"
+      ],
+      "publishers": [
+        "Paralune LLC"
+      ],
+      "score": 84,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 Jan, 2020"
+      }
+    },
+    {
+      "appid": 812550,
+      "type": "game",
+      "name": "The King's Bird",
+      "developers": [
+        "Serenity Forge"
+      ],
+      "publishers": [
+        "Graffiti Games"
+      ],
+      "score": 67,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Aug, 2018"
+      }
+    },
+    {
+      "appid": 812160,
+      "type": "game",
+      "name": "Etherborn",
+      "developers": [
+        "Altered Matter"
+      ],
+      "publishers": [
+        "Akupara Games"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "18 Jul, 2019"
+      }
+    },
+    {
+      "appid": 811270,
+      "type": "game",
+      "name": "Impulsion",
+      "developers": [
+        "Driving Force Games"
+      ],
+      "publishers": [
+        "Dear Villagers"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 Jul, 2018"
+      }
+    },
+    {
+      "appid": 810660,
+      "type": "game",
+      "name": "The Office Quest",
+      "developers": [
+        "11Sheep"
+      ],
+      "publishers": [
+        "11Sheep"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "24 May, 2018"
+      }
+    },
+    {
+      "appid": 809880,
+      "type": "game",
+      "name": "Degrees of Separation",
+      "developers": [
+        "Moondrop"
+      ],
+      "publishers": [
+        "Modus Games"
+      ],
+      "score": 74,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Feb, 2019"
+      }
+    },
+    {
+      "appid": 809890,
+      "type": "game",
+      "name": "Shining Resonance Refrain",
+      "developers": [
+        "SEGA"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 Jul, 2018"
+      }
+    },
+    {
+      "appid": 809230,
+      "type": "game",
+      "name": "Unity of Command II",
+      "developers": [
+        "2x2 Games",
+        "Croteam"
+      ],
+      "publishers": [
+        "2x2 Games"
+      ],
+      "score": 88,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Nov, 2019"
+      }
+    },
+    {
+      "appid": 809240,
+      "type": "game",
+      "name": "Vandals",
+      "developers": [
+        "Cosmografik",
+        "Novelab",
+        "Ex Nihilo",
+        "ARTE France"
+      ],
+      "publishers": [
+        "ARTE France"
+      ],
+      "score": 74,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Apr, 2018"
+      }
+    },
+    {
+      "appid": 809280,
+      "type": "game",
+      "name": "Grimmwood",
+      "developers": [
+        "Big Moustache Games"
+      ],
+      "publishers": [
+        "Headup",
+        "Whisper Games"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Aug, 2018"
+      }
+    },
+    {
+      "appid": 808770,
+      "type": "game",
+      "name": "Headspun",
+      "developers": [
+        "Superstring"
+      ],
+      "publishers": [
+        "Wales Interactive"
+      ],
+      "score": 51,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Aug, 2019"
+      }
+    },
+    {
+      "appid": 807120,
+      "type": "game",
+      "name": "Iratus: Lord of the Dead",
+      "developers": [
+        "Unfrozen"
+      ],
+      "publishers": [
+        "Daedalic Entertainment"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Apr, 2020"
+      }
+    },
+    {
+      "appid": 805550,
+      "type": "game",
+      "name": "Assetto Corsa Competizione",
+      "developers": [
+        "Kunos Simulazioni"
+      ],
+      "publishers": [
+        "505 Games"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "9",
+          "description": "Racing"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "29 May, 2019"
+      }
+    },
+    {
+      "appid": 805660,
+      "type": "game",
+      "name": "Rad Rodgers",
+      "developers": [
+        "Slipgate Ironworks™"
+      ],
+      "publishers": [
+        "HandyGames",
+        "3D Realms"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Feb, 2018"
+      }
+    },
+    {
+      "appid": 802880,
+      "type": "game",
+      "name": "Muv-Luv",
+      "developers": [
+        "aNCHOR Inc."
+      ],
+      "publishers": [
+        "aNCHOR Inc."
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Feb, 2018"
+      }
+    },
+    {
+      "appid": 802890,
+      "type": "game",
+      "name": "Muv-Luv Alternative",
+      "developers": [
+        "aNCHOR Inc."
+      ],
+      "publishers": [
+        "aNCHOR Inc."
+      ],
+      "score": 83,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Feb, 2018"
+      }
+    },
+    {
+      "appid": 803050,
+      "type": "game",
+      "name": "Per Aspera",
+      "developers": [
+        "Tlön Industries"
+      ],
+      "publishers": [
+        "Raw Fury"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "3 Dec, 2020"
+      }
+    },
+    {
+      "appid": 801980,
+      "type": "dlc",
+      "name": "Kingdom Come: Deliverance - Artbook",
+      "developers": [
+        "Warhorse Studios"
+      ],
+      "publishers": [
+        "Warhorse Studios",
+        "Deep Silver"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Feb, 2018"
+      }
+    },
+    {
+      "appid": 798490,
+      "type": "game",
+      "name": "Othercide",
+      "developers": [
+        "Lightbulb Crew"
+      ],
+      "publishers": [
+        "Focus Home Interactive"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Jul, 2020"
+      }
+    },
+    {
+      "appid": 795760,
+      "type": "game",
+      "name": "UPPERS",
+      "developers": [
+        "Bullets"
+      ],
+      "publishers": [
+        "Marvelous",
+        "XSEED Games",
+        "Marvelous USA, Inc."
+      ],
+      "score": 60,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Oct, 2020"
+      }
+    },
+    {
+      "appid": 795610,
+      "type": "game",
+      "name": "Gift of Parthax",
+      "developers": [
+        "Foldergeist Studios"
+      ],
+      "publishers": [
+        "1C Entertainment"
+      ],
+      "score": 65,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Sep, 2018"
+      }
+    },
+    {
+      "appid": 794960,
+      "type": "game",
+      "name": "The Sojourn",
+      "developers": [
+        "Shifting Tides"
+      ],
+      "publishers": [
+        "Iceberg Interactive"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "29 Sep, 2020"
+      }
+    },
+    {
+      "appid": 794540,
+      "type": "game",
+      "name": "Neo Cab",
+      "developers": [
+        "Chance Agency"
+      ],
+      "publishers": [
+        "Fellow Traveller"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "3 Oct, 2019"
+      }
+    },
+    {
+      "appid": 794260,
+      "type": "game",
+      "name": "Outward",
+      "developers": [
+        "Nine Dots Studio"
+      ],
+      "publishers": [
+        "Deep Silver"
+      ],
+      "score": 67,
+      "genres": [
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "26 Mar, 2019"
+      }
+    },
+    {
+      "appid": 793460,
+      "type": "game",
+      "name": "112 Operator",
+      "developers": [
+        "Jutsu Games"
+      ],
+      "publishers": [
+        "Games Operators"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Apr, 2020"
+      }
+    },
+    {
+      "appid": 793170,
+      "type": "game",
+      "name": "Seeking Dawn - Free to Play Edition",
+      "developers": [
+        "Multiverse"
+      ],
+      "publishers": [
+        "Multiverse"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "37",
+          "description": "Free to Play"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "1 Nov, 2018"
+      }
+    },
+    {
+      "appid": 792040,
+      "type": "game",
+      "name": "Detective Di: The Silk Rose Murders",
+      "developers": [
+        "Nupixo Games"
+      ],
+      "publishers": [
+        "Nupixo Games",
+        "WhisperGames"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "1 May, 2019"
+      }
+    },
+    {
+      "appid": 792300,
+      "type": "game",
+      "name": "The Beast Inside",
+      "developers": [
+        "Illusion Ray Studio"
+      ],
+      "publishers": [
+        "Movie Games S.A.",
+        "PlayWay S.A."
+      ],
+      "score": 74,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Oct, 2019"
+      }
+    },
+    {
+      "appid": 790710,
+      "type": "game",
+      "name": "World of Warplanes",
+      "developers": [
+        "Wargaming Group Limited"
+      ],
+      "publishers": [
+        " Wargaming Group Limited"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "37",
+          "description": "Free to Play"
+        },
+        {
+          "id": "29",
+          "description": "Massively Multiplayer"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "12 Sep, 2018"
+      }
+    },
+    {
+      "appid": 790820,
+      "type": "game",
+      "name": "Valkyria Chronicles 4 Complete Edition",
+      "developers": [
+        "SEGA"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "score": 83,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "25 Sep, 2018"
+      }
+    },
+    {
+      "appid": 790350,
+      "type": "game",
+      "name": "The Inner Friend",
+      "developers": [
+        "PLAYMIND"
+      ],
+      "publishers": [
+        "PLAYMIND"
+      ],
+      "score": 66,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "6 Sep, 2018"
+      }
+    },
+    {
+      "appid": 789050,
+      "type": "game",
+      "name": "Paradise",
+      "developers": [
+        "Para"
+      ],
+      "publishers": [
+        "Para"
+      ],
+      "score": 57,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Mar, 2018"
+      }
+    },
+    {
+      "appid": 787860,
+      "type": "game",
+      "name": "Farming Simulator 19",
+      "developers": [
+        "Giants Software"
+      ],
+      "publishers": [
+        "Focus Home Interactive"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 Nov, 2018"
+      }
+    },
+    {
+      "appid": 787480,
+      "type": "game",
+      "name": "Phoenix Wright: Ace Attorney Trilogy",
+      "developers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 Apr, 2019"
+      }
+    },
+    {
+      "appid": 786580,
+      "type": "game",
+      "name": "Gleaner Heights",
+      "developers": [
+        "Emilios Manolidis"
+      ],
+      "publishers": [
+        "Emilios Manolidis"
+      ],
+      "score": 65,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Feb, 2018"
+      }
+    },
+    {
+      "appid": 785740,
+      "type": "game",
+      "name": "This Is the Police 2",
+      "developers": [
+        "Weappy Studio"
+      ],
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "score": 66,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "31 Jul, 2018"
+      }
+    },
+    {
+      "appid": 785790,
+      "type": "game",
+      "name": "WHAT THE GOLF?",
+      "developers": [
+        "Triband"
+      ],
+      "publishers": [
+        "Triband"
+      ],
+      "score": 83,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Oct, 2020"
+      }
+    },
+    {
+      "appid": 783170,
+      "type": "game",
+      "name": "INSOMNIA: The Ark",
+      "developers": [
+        "Mono Studio"
+      ],
+      "publishers": [
+        "HeroCraft PC"
+      ],
+      "score": 54,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Sep, 2018"
+      }
+    },
+    {
+      "appid": 783210,
+      "type": "game",
+      "name": "Aggressors: Ancient Rome",
+      "developers": [
+        "Kubat Software"
+      ],
+      "publishers": [
+        "Slitherine Ltd."
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Aug, 2018"
+      }
+    },
+    {
+      "appid": 783340,
+      "type": "game",
+      "name": "FRACTER",
+      "developers": [
+        "4L GAMES LTD."
+      ],
+      "publishers": [
+        "4L GAMES LTD."
+      ],
+      "score": 64,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "5 Sep, 2019"
+      }
+    },
+    {
+      "appid": 783450,
+      "type": "game",
+      "name": "HYPERGUN",
+      "developers": [
+        "NVYVE® Studios"
+      ],
+      "publishers": [
+        "NVYVE® Studios"
+      ],
+      "score": 62,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Aug, 2018"
+      }
+    },
+    {
+      "appid": 782140,
+      "type": "game",
+      "name": "Re-Legion",
+      "developers": [
+        "Ice Code Games"
+      ],
+      "publishers": [
+        "1C Entertainment"
+      ],
+      "score": 55,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "31 Jan, 2019"
+      }
+    },
+    {
+      "appid": 782330,
+      "type": "game",
+      "name": "DOOM Eternal",
+      "developers": [
+        "id Software"
+      ],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "score": 88,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "19 Mar, 2020"
+      }
+    },
+    {
+      "appid": 781480,
+      "type": "game",
+      "name": "Tech Support: Error Unknown",
+      "developers": [
+        "Dragon Slumber"
+      ],
+      "publishers": [
+        "Iceberg Interactive"
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Feb, 2019"
+      }
+    },
+    {
+      "appid": 780350,
+      "type": "game",
+      "name": "Unruly Heroes",
+      "developers": [
+        "Magic Design Studios"
+      ],
+      "publishers": [
+        "Magic Design Studios"
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Jan, 2019"
+      }
+    },
+    {
+      "appid": 779936,
+      "type": "dlc",
+      "name": "DRAGON BALL FighterZ - Goku",
+      "developers": [
+        "Arc System Works"
+      ],
+      "publishers": [
+        "BANDAI NAMCO Entertainment"
+      ],
+      "score": 85,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Aug, 2018"
+      }
+    },
+    {
+      "appid": 779937,
+      "type": "dlc",
+      "name": "DRAGON BALL FighterZ - Vegeta",
+      "developers": [
+        "Arc System Works"
+      ],
+      "publishers": [
+        "BANDAI NAMCO Entertainment"
+      ],
+      "score": 85,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Aug, 2018"
+      }
+    },
+    {
+      "appid": 779290,
+      "type": "game",
+      "name": "Stygian: Reign of the Old Ones",
+      "developers": [
+        "Cultic Games"
+      ],
+      "publishers": [
+        "1C Entertainment"
+      ],
+      "score": 81,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "26 Sep, 2019"
+      }
+    },
+    {
+      "appid": 774811,
+      "type": "game",
+      "name": "YUMENIKKI -DREAM DIARY-",
+      "developers": [
+        "KADOKAWA CORPORATION",
+        "Active Gaming Media Inc."
+      ],
+      "publishers": [
+        "PLAYISM"
+      ],
+      "score": 51,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Feb, 2018"
+      }
+    },
+    {
+      "appid": 774361,
+      "type": "game",
+      "name": "Blasphemous",
+      "developers": [
+        "The Game Kitchen"
+      ],
+      "publishers": [
+        "Team17"
+      ],
+      "score": 77,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "10 Sep, 2019"
+      }
+    },
+    {
+      "appid": 774201,
+      "type": "game",
+      "name": "Heaven's Vault",
+      "developers": [
+        "inkle Ltd"
+      ],
+      "publishers": [
+        "inkle Ltd"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 Apr, 2019"
+      }
+    },
+    {
+      "appid": 774241,
+      "type": "game",
+      "name": "Warhammer: Chaosbane",
+      "developers": [
+        "Eko Software"
+      ],
+      "publishers": [
+        "Nacon"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "31 May, 2019"
+      }
+    },
+    {
+      "appid": 773770,
+      "type": "game",
+      "name": "The Way of Kings: Escape the Shattered Plains!",
+      "developers": [
+        "Arcturus Studios Inc"
+      ],
+      "publishers": [
+        "Arcturus Studios Inc"
+      ],
+      "score": 58,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Mar, 2018"
+      }
+    },
+    {
+      "appid": 773090,
+      "type": "game",
+      "name": "Lucid Dream",
+      "developers": [
+        "Dali Games"
+      ],
+      "publishers": [
+        "Dali Games"
+      ],
+      "score": 62,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Oct, 2018"
+      }
+    },
+    {
+      "appid": 772290,
+      "type": "game",
+      "name": "Rainswept",
+      "developers": [
+        "Frostwood Interactive"
+      ],
+      "publishers": [
+        "Frostwood Interactive"
+      ],
+      "score": 67,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "1 Feb, 2019"
+      }
+    },
+    {
+      "appid": 772480,
+      "type": "game",
+      "name": "Super Inefficient Golf",
+      "developers": [
+        "34BigThings srl"
+      ],
+      "publishers": [
+        "34BigThings srl"
+      ],
+      "score": 69,
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "15 Mar, 2018"
+      }
+    },
+    {
+      "appid": 772500,
+      "type": "game",
+      "name": "Distortions",
+      "developers": [
+        "Among Giants"
+      ],
+      "publishers": [
+        "Among Giants"
+      ],
+      "score": 60,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Mar, 2018"
+      }
+    },
+    {
+      "appid": 771690,
+      "type": "game",
+      "name": "Fimbul",
+      "developers": [
+        "Zaxis"
+      ],
+      "publishers": [
+        "Wild River Games"
+      ],
+      "score": 50,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "28 Feb, 2019"
+      }
+    },
+    {
+      "appid": 770110,
+      "type": "game",
+      "name": "Twilight Path",
+      "developers": [
+        "Charm Games"
+      ],
+      "publishers": [
+        "Charm Games"
+      ],
+      "score": 60,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Oct, 2018"
+      }
+    },
+    {
+      "appid": 770240,
+      "type": "game",
+      "name": "PRO EVOLUTION SOCCER 2019",
+      "developers": [
+        "Konami Digital Entertainment"
+      ],
+      "publishers": [
+        "Konami Digital Entertainment"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "29 Aug, 2018"
+      }
+    },
+    {
+      "appid": 770390,
+      "type": "game",
+      "name": "Draugen",
+      "developers": [
+        "Red Thread Games"
+      ],
+      "publishers": [
+        "Red Thread Games"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "29 May, 2019"
+      }
+    },
+    {
+      "appid": 768530,
+      "type": "dlc",
+      "name": "Kingdom Come: Deliverance - Treasures of the Past",
+      "developers": [
+        "Warhorse Studios"
+      ],
+      "publishers": [
+        "Warhorse Studios",
+        "Deep Silver"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "11 Apr, 2018"
+      }
+    },
+    {
+      "appid": 767390,
+      "type": "game",
+      "name": "Dakar 18",
+      "developers": [
+        "Bigmoon Entertainment"
+      ],
+      "publishers": [
+        "Bigmoon Entertainment",
+        "Ravenscourt"
+      ],
+      "score": 59,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "9",
+          "description": "Racing"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "25 Sep, 2018"
+      }
+    },
+    {
+      "appid": 766320,
+      "type": "game",
+      "name": "The Mage's Tale",
+      "developers": [
+        "inXile Entertainment"
+      ],
+      "publishers": [
+        "inXile Entertainment"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Mar, 2018"
+      }
+    },
+    {
+      "appid": 765870,
+      "type": "game",
+      "name": "Leisure Suit Larry - Wet Dreams Don't Dry",
+      "developers": [
+        "CrazyBunch"
+      ],
+      "publishers": [
+        "Assemble Entertainment"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "7 Nov, 2018"
+      }
+    },
+    {
+      "appid": 765880,
+      "type": "game",
+      "name": "The Occupation",
+      "developers": [
+        "White Paper Games"
+      ],
+      "publishers": [
+        "Humble Games"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "5 Mar, 2019"
+      }
+    },
+    {
+      "appid": 765810,
+      "type": "game",
+      "name": "Mars Horizon",
+      "developers": [
+        "Auroch Digital"
+      ],
+      "publishers": [
+        "The Irregular Corporation"
+      ],
+      "score": 73,
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Nov, 2020"
+      }
+    },
+    {
+      "appid": 764670,
+      "type": "game",
+      "name": "Sea Dogs",
+      "developers": [
+        "Akella"
+      ],
+      "publishers": [
+        "Akella"
+      ],
+      "score": 71,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Jan, 2018"
+      }
+    },
+    {
+      "appid": 764790,
+      "type": "game",
+      "name": "The Messenger",
+      "developers": [
+        "Sabotage"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "score": 83,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Aug, 2018"
+      }
+    },
+    {
+      "appid": 763030,
+      "type": "game",
+      "name": "Nelly Cootalot: Spoonbeaks Ahoy! HD",
+      "developers": [
+        "Alasdair Beckett-King",
+        "Application Systems Heidelberg"
+      ],
+      "publishers": [
+        "Application Systems Heidelberg"
+      ],
+      "score": 80,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 May, 2019"
+      }
+    },
+    {
+      "appid": 763250,
+      "type": "game",
+      "name": "The Spectrum Retreat",
+      "developers": [
+        "Dan Smith Studios"
+      ],
+      "publishers": [
+        "Ripstone"
+      ],
+      "score": 68,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Jul, 2018"
+      }
+    },
+    {
+      "appid": 762610,
+      "type": "game",
+      "name": "Russian Subway Dogs",
+      "developers": [
+        "Spooky Squid Games Inc."
+      ],
+      "publishers": [
+        "Spooky Squid Games Inc."
+      ],
+      "score": 85,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Aug, 2018"
+      }
+    },
+    {
+      "appid": 762830,
+      "type": "game",
+      "name": "Telling Lies",
+      "developers": [
+        "Sam Barlow",
+        "Half Mermaid",
+        "Furious Bee Limited"
+      ],
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "score": 84,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Aug, 2019"
+      }
+    },
+    {
+      "appid": 762220,
+      "type": "game",
+      "name": "Afterparty",
+      "developers": [
+        "Night School Studio"
+      ],
+      "publishers": [
+        "Night School Studio"
+      ],
+      "score": 75,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "22 Oct, 2020"
+      }
+    },
+    {
+      "appid": 762490,
+      "type": "game",
+      "name": "Naked Sun",
+      "developers": [
+        "Door Z Studio"
+      ],
+      "publishers": [
+        "Door Z Studio"
+      ],
+      "score": 65,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "17 Jul, 2018"
+      }
+    },
+    {
+      "appid": 761890,
+      "type": "game",
+      "name": "Albion Online",
+      "developers": [
+        "Sandbox Interactive GmbH"
+      ],
+      "publishers": [
+        "Sandbox Interactive GmbH"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "37",
+          "description": "Free to Play"
+        },
+        {
+          "id": "29",
+          "description": "Massively Multiplayer"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "16 May, 2018"
+      }
+    },
+    {
+      "appid": 761910,
+      "type": "game",
+      "name": "Worbital",
+      "developers": [
+        "Team Jolly Roger"
+      ],
+      "publishers": [
+        "Team Jolly Roger",
+        "Advanced Interactive Gaming"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "31 Jan, 2019"
+      }
+    },
+    {
+      "appid": 761460,
+      "type": "game",
+      "name": "Lamplight City",
+      "developers": [
+        "Grundislav Games"
+      ],
+      "publishers": [
+        "Application Systems Heidelberg"
+      ],
+      "score": 72,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "13 Sep, 2018"
+      }
+    },
+    {
+      "appid": 761597,
+      "type": "dlc",
+      "name": "Monster Hunter: World - Gesture: Kneel",
+      "developers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "score": 88,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "9 Aug, 2018"
+      }
+    },
+    {
+      "appid": 761620,
+      "type": "game",
+      "name": "Beholder 2",
+      "developers": [
+        "Warm Lamp Games"
+      ],
+      "publishers": [
+        "Alawar Premium"
+      ],
+      "score": 76,
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "4 Dec, 2018"
+      }
+    },
+    {
+      "appid": 760060,
+      "type": "game",
+      "name": "Mutant Year Zero: Road to Eden",
+      "developers": [
+        "The Bearded Ladies"
+      ],
+      "publishers": [
+        "Funcom"
+      ],
+      "score": 78,
+      "genres": [
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "4 Dec, 2018"
+      }
+    },
+    {
+      "appid": 759740,
+      "type": "game",
+      "name": "RIDE 3",
+      "developers": [
+        "Milestone S.r.l."
+      ],
+      "publishers": [
+        "Milestone S.r.l."
+      ],
+      "score": 70,
+      "genres": [
+        {
+          "id": "9",
+          "description": "Racing"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "30 Nov, 2018"
+      }
+    },
+    {
+      "appid": 1393750,
+      "type": "game",
+      "name": "Ocean's Heart",
+      "developers": [
+        "Max Mraz"
+      ],
+      "publishers": [
+        "Nordcurrent"
+      ],
+      "score": 79,
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "21 Jan, 2021"
+      }
+    }
+  ]
+}
